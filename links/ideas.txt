@@ -1,0 +1,5 @@
+-keras
+-tensorflow
+-pytorch
+-obviously numpy and pandas
+-scikit learn
