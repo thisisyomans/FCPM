@@ -1,1 +1,1 @@
-# FCPM - Full Cancer Prediction Moddel
+# FCPM - Full Cancer Prediction Model
