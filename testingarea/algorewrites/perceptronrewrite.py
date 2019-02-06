@@ -1,4 +1,5 @@
 # Author: Mathieu Blondel
+# Editor: Manas Taneja
 # License: BSD 3 clause
 
 from .stochastic_gradient import BaseSGDClassifier
